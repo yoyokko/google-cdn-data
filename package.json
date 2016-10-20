@@ -1,24 +1,24 @@
 {
-  "name": "google-cdn-data",
-  "version": "0.1.25",
-  "description": "Google CDN Data for google-cdn",
+  "name": "ustc-cdn-data",
+  "version": "0.1.27",
+  "description": "USTC CDN Data for google-cdn",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shahata/google-cdn-data.git"
+    "url": "git://github.com/yoyokko/ustc-cdn-data.git"
   },
   "author": "Shahar Talmi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahata/google-cdn-data/issues"
+    "url": "https://github.com/yoyokko/ustc-cdn-data/issues"
   },
-  "homepage": "https://github.com/shahata/google-cdn-data",
+  "homepage": "https://github.com/yoyokko/ustc-cdn-data",
   "keywords": [
     "cdn",
-    "google"
+    "ustc"
   ],
   "devDependencies": {
     "chai": "~1.8.1",
